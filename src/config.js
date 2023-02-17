@@ -7,13 +7,13 @@ import {getFirestore} from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAE4Ss2viP76evjxH03daDDlSgzSInVGFM",
-  authDomain: "webb-235f0.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   databaseURL: "https://webb-235f0-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "webb-235f0",
   storageBucket: "webb-235f0.appspot.com",
   messagingSenderId: "535953968153",
-  appId: "1:535953968153:web:1433aeaf952e8c065a6e88"
+  appId: ""
 };
 
 // Initialize Firebase
